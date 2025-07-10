@@ -1,0 +1,30 @@
+1) Para qué se puede usar Python en lo que respecta a datos. Dar 5 casos y explicar brevemente
+Rpta: python es uno de los lenguajes mas usados actualmente, por su simple manejo de codificacion y de la ciencia de los datos.
+	a)Análisis de datos (Data Analysis): calcular promedios, detectar valores nulos y preparar datos para reportes o modelos.
+	b)Visualización de datos (Data Visualization):  Generar un gráfico de barras con las ventas mensuales o un heatmap de correlación entre variables.
+	c)Machine Learning y modelado predictivo: Predecir si un cliente va a abandonar un servicio según su comportamiento.
+	d)Automatización de procesos de datos (ETL): Automatizar la descarga de reportes, limpiarlos y subirlos a una base de datos o dashboard.
+	e)Ciencia de datos (Data Science): Analizar datos de clientes, identificar segmentos de comportamiento y validar hipótesis con pruebas estadísticas.
+
+2)¿Cómo se diferencian Flask de Django? Argumentar.
+Rpta: Flask es un framework liviano usado para proyectos pequeños o Apis, y Django contiene una estructura robusta y es utilizado para proyectos grandes.
+
+3)¿Qué es un API? Explicar en sus propias palabras
+Rpta: es un intercomunicador que realizar la hace de un puente entre 2 programas o sistemas distintos se comuniquen de forma cotidiana.
+
+4)¿Cuál es la principal diferencia entre REST y WebSockets?
+Rpta: REST se comunica entre cliente y servidor por solicitud y Websockets es bidireccional sin esperar solicitudes
+
+
+5)Describir un ejemplo de API comercial y como funciona – usar otros ejemplos no vistos en el curso.
+Rpta: Un ejemplo de API comercial es Stripe, una plataforma que permite procesar pagos en línea.
+A través de su API, las aplicaciones pueden cobrar con tarjeta, gestionar suscripciones o emitir reembolsos.
+El desarrollador envía una solicitud HTTP con los datos del pago al servidor de Stripe.
+Stripe valida la información, procesa la transacción y devuelve una respuesta con el resultado.
+Este sistema permite automatizar cobros sin manejar directamente datos sensibles.
+Es muy utilizado en e-commerce, apps móviles y servicios por suscripción.
+
+
+
+
+
